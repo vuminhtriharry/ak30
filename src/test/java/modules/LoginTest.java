@@ -120,5 +120,4 @@ public class LoginTest {
         driver.quit();
         driver.close();
     }
-
 }
