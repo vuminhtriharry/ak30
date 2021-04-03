@@ -1,0 +1,9 @@
+<suite name = "demo">
+    <test name="testNG">
+        <packages>
+            <package name="modules"/>
+            <class name="modules.TodoTest">
+            </class>
+        </packages>
+    </test>
+</suite>
